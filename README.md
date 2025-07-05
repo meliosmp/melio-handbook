@@ -2,7 +2,7 @@
 
 This is the repository for the official Melio Handbook.
 
-### Running Locally
+## Running Locally
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
@@ -23,7 +23,7 @@ $ yarn build
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-### Contribute
+## Contribute
 
 If you would like to help, we are open to contributions!
 If you don't know anything about GitHub, Pull Requests, or Markdown, see <TODO>.
