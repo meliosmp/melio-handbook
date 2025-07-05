@@ -4,16 +4,18 @@ This is the repository for the official Melio Handbook.
 
 ## Running Locally
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator. To install and run, you may use yarn, npm, or pnpm.
 
 - Install Dependencies
 
+  This command installs all dependencies from `package.json`.
   ```sh
   $ yarn
   ```
 
 - Run
 
+  This command runs a local development server that will serve your website and reflect the latest changes as you edit the files.
   ```sh
   $ yarn dev
   ```
@@ -24,7 +26,6 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
   ```sh
   $ yarn build
   ```
-
 
 ## Contribute
 
