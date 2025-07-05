@@ -1,0 +1,41 @@
+silw:
+  name: silw
+  title: Maybe an admin, maybe not.
+  url: https://meliosmp.com
+  image_url: https://cravatar.eu/helmavatar/silw/64
+
+cesiumcat:
+  name: CesiumCat
+  title: Admin
+  url: https://meliosmp.com
+  image_url: https://cravatar.eu/helmavatar/cesiumcat/64
+
+enjachester:
+  name: EnjaChester
+  title: Staff
+  url: https://meliosmp.com
+  image_url: https://cravatar.eu/helmavatar/enjachester/64
+
+zillaiwai:
+  name: zillaiwai
+  title: Staff
+  url: https://meliosmp.com
+  image_url: https://cravatar.eu/helmavatar/zillaiwai/64
+
+endi:
+  name: Endilie Yacop Sucipto
+  title: Maintainer of Docusaurus
+  url: https://github.com/endiliey
+  image_url: https://github.com/endiliey.png
+
+yangshun:
+  name: Yangshun Tay
+  title: Front End Engineer @ Facebook
+  url: https://github.com/yangshun
+  image_url: https://github.com/yangshun.png
+
+slorber:
+  name: Sébastien Lorber
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
+  image_url: https://github.com/slorber.png
