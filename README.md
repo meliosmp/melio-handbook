@@ -4,7 +4,7 @@ This is the repository for the official Melio Handbook.
 
 ## Running Locally
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator. To install and run, you may use yarn, npm, or pnpm.
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator. To install and run locally, you may use yarn, npm, or pnpm.
 
 - Install Dependencies
 
@@ -30,7 +30,7 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 ## Contribute
 
 If you would like to help, we are open to contributions!
-If you don't know anything about GitHub, Pull Requests, or Markdown, see <TODO>.
+If you don't know anything about GitHub, Pull Requests, or Markdown, see [GUIDE.md](GUIDE.md).
 
 **Contributors**: None
 

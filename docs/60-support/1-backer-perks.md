@@ -1,6 +1,7 @@
 ---
 title: └ List of Perks
 unlisted: false
+description: Perks received as a Backer
 ---
 
 # Backers' Perks
