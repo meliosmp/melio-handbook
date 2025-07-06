@@ -24,7 +24,7 @@ universally in software development.
 
 To contribute to the Handbook, you will need to [create a GitHub account](https://github.com/signup).
 
-<sup>1</sup> : A repository can be thought of as one project or one folder containing code, images, documents, and other files.
+<sup>1 : A repository can be thought of as one project or one folder containing code, images, documents, and other files.</sup>
 
 ## Forking the Repository
 
@@ -75,7 +75,7 @@ TODO
 After your Pull Request is made, please inform the maintainers<sup>2</sup>.
 We will review your proposed changes as soon as we can.
 
-<sup>2</sup> : Maintainers are the people responsible for maintaining a project (CesiumCat and silw, in this case) and are the ones who will review your Pull Request. 
+<sup>2 : Maintainers are the people responsible for maintaining a project (CesiumCat and silw, in this case) and are the ones who will review your Pull Request.</sup>
 
 ## What's Next
 
