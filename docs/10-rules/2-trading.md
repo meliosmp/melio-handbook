@@ -46,12 +46,12 @@ Follow the DOs and refrain from the DONTs.
 - Gambling is allowed, provided you are not scamming anyone or being dishonest. We expect you to give your best effort in disclosing the rates.
 
 ## 4. Intervention
-- If your shop remains **unstocked for over 28 days**, we will send you a reminder to restock.
-- If your shop remains **unstocked 7 days AFTER our shop restock reminder**, we reserve the right to
+- If your shop remains **unstocked for over 14 days**, we will send you a reminder to restock.
+- If your shop remains **unstocked 14 days AFTER our shop restock reminder**, we reserve the right to
 remove, demolish, or take over your shop. 
-- When responding to a restock reminder, we expect you to restock sufficiently and fairly so your shop can be of use for other players.
-- The 28 days until a restock reminder starts counting the moment you purchase a plot.
+- When responding to a restock reminder, we expect you to do a complete and thorough restock.
+- When you purchase a plot, the "14 days" until a restock reminder starts counting.
 - If your shop was seized, taken over, or demolished by staff (for not keeping it stocked, or rule-breaking), the diamond payment for purchasing the plot will not be returned.
 - We reserve the right to request for changes / removal (or simply remove a shop ourselves) if we deem it to violate one of the three trading principles.
-
+- Any change in shop ownership or voluntary shop removal must be reported to staff via a ticket.
 - Feel free to DM us or open a ticket if you need clarification about the Trading Rules.
