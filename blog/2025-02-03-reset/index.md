@@ -2,10 +2,10 @@
 slug: world-reset
 title: World Reset
 authors: [silw]
-tags: [server, update, backers]
+tags: [server, update]
 ---
 
-With the world reset around the corner, we *have* to communicate about everything. So it's about time then. This blog post will cover the following:
+With the world reset around the corner, we *have* to communicate about everything. So it's about time then. This blog post will cover <!-- truncate --> the following:
 - Feature Changes
 - Market Changes
 - Rule Changes

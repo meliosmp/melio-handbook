@@ -1,8 +1,13 @@
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+server:
+  label: server
+  permalink: /server
+  description: Posts relating to our server
+update:
+  label: update
+  permalink: /update
+  description: Updates that everyone should be checked in to
+council:
+  label: council
+  permalink: /council
+  description: Posts relating to Council
+
