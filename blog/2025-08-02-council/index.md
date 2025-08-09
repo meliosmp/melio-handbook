@@ -61,8 +61,7 @@ One misconception we're trying to correct is the idea that Council is only for "
 
 There are a lot of factors involved in our selection. Instead of trying to fit
 a certain mold of what we need, we suggest applying anyway if you're interested.
-
-What's the worst that could happen? A (non-permanent) rejection?
+What's the worst that could happen?
 </details>
 
 <details>
@@ -76,7 +75,7 @@ part of that initiative is the two tracks, artisan and staff.
 <details>
 <summary>How long are Council applications open for?</summary>
 
-About 1-2 months (since August 2025)
+Tentative, but you can expect them to be open for 1-2 months.
 </details>
 
 <details>
@@ -84,8 +83,7 @@ About 1-2 months (since August 2025)
 
 There are no hard requirements. 
 
-However, we do prefer members who have been on Melio for a while (over a month) 
-and have more life experience.
+But we encourage folks who’ve been in Melio for at least a month and who bring good vibes and helpful life experience & skills (like being a thoughtful communicator, working through disagreements, or brainstorming on Minecraft-related issues).
 </details>
 
 <details>
@@ -97,7 +95,7 @@ Yes.
 <details>
 <summary>If I apply and get rejected, can I apply again in the future?</summary>
 
-Yes.
+Yes. Not immediately, but you can re-apply when we re-open Council applications another time.
 </details>
 
 <details>
@@ -110,5 +108,5 @@ Feel free to DM silw or CesiumCat about your concerns :)
 <summary>I've filled out the application form. How long will a response take?</summary>
 
 You can expect a response to take between 1-3 weeks. 
-When Council applications close, however, we won't be processing any more applicants.
+However, we won’t review any more Council applications after application period closes.
 </details>
