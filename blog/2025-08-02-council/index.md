@@ -20,6 +20,8 @@ no longer be an invite-only opportunity.
 
 ## About
 
+![](assets/council-poster.png)
+
 The Melio Council is an initiative to create a space for esteemed members 
 to pursue leadership opportunities in the community. Council members will
 get to work on a variety of different tasks (depending
