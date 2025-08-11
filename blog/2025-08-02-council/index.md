@@ -109,6 +109,6 @@ Feel free to DM silw or CesiumCat about your concerns :)
 <details>
 <summary>I've filled out the application form. How long will a response take?</summary>
 
-You can expect a response to take between 1-3 weeks. 
+You can expect a response to take anywhere between 2-4 weeks. 
 However, we won’t review any more Council applications after application period closes.
 </details>
